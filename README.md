@@ -1,5 +1,5 @@
 # optimal-trading-rules
-Based on the paper by Peter P. Carr and Marcos Lopez de Prado on "Deterimining Optimal Trading Rules without Backtesting", this Python script simulates optimal trading strategies using the Ornstein-Uhlenbeck (O-U) process and aims to determine the optimal trading rules, specifically the profit-taking (PT) and stop-loss (SL) levels, without relying on historical backtesting. The O-U process is a mean-reverting stochastic process.
+Based on the paper by Peter P. Carr and Marcos Lopez de Prado on "Determining Optimal Trading Rules without Backtesting", this Python script simulates optimal trading strategies using the Ornstein-Uhlenbeck (O-U) process and aims to determine the optimal trading rules, specifically the profit-taking (PT) and stop-loss (SL) levels, without relying on historical backtesting. The O-U process is a mean-reverting stochastic process.
 
 ## Key Features:
 
